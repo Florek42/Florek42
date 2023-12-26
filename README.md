@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=florek42" alt="florek42" /></a> </p>
 
-- 🔭 I’m currently working on **My blog and Day planning app**
+- 🔭 I’m currently working on **My blog and Day planning app and accounting automation application**
 
 - 🌱 I’m currently learning **Django, Flutter, Dart, Kotlin and Java**
 
-- 💞️ I’m looking to collaborate on [Mobile App designing](SOON)
+- 💞️ I’m looking to collaborate on creating a Mobile App
 
 - 👨‍💻 All of my projects are available at [https://github.com/Florek42](https://github.com/Florek42)
 
