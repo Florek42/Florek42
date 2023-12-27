@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
-<h3 align="center">Backend, Software Engineer, App Developer and Designer form Poland</h3>
+<h3 align="center">Backend Developer, App Developer and Designer from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florek42&label=Profile%20views&color=0e75b6&style=flat" alt="florek42" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **My blog and Day planning app and accounting automation application**
 
-- 🌱 I’m currently learning **Django, Flutter, Dart, Kotlin and Java**
+- 🌱 I’m currently learning **Flask, Java and Python**
 
-- 💞️ I’m looking to collaborate on creating a Mobile App
+- 💞️ I’m looking to collaborate on creating a Mobile Apps in Swift or Kotlin
 
 - 👨‍💻 All of my projects are available at [https://github.com/Florek42](https://github.com/Florek42)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **krzysztoff0423@gmail.com**
 
-- ⚡ Fun fact **I always want to make my project perfect**
+- ⚡ Fun fact **I always want to make my projects perfect and sometimes I overwork myself** In the future I also want to create my own applications and games for mobile devices
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
