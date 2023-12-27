@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **My blog and Day planning app and accounting automation application**
 
-- 🌱 I’m currently learning **Flask, Java and Python**
+- 🌱 I’m currently learning **Python, Flask and Java**
 
 - 💞️ I’m looking to collaborate on creating a Mobile Apps in Swift or Kotlin
 
