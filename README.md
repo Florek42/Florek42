@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Krzysztof</h1>
-<h3 align="center">Backend Developer, App Developer and Designer from Poland.</h3>
+<h3 align="center">Backend Python Developer and App Developer from Poland.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=florek42&label=Profile%20views&color=0e75b6&style=flat" alt="florek42" /> </p>
 
