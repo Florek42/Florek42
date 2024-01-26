@@ -4,8 +4,8 @@ I'm Forek, also known as Krzysztof, a passionate [Backend Developer/Python Enthu
 
 ## 🚀 About Me
 
-- 💼 Currently working as a [Looking for a job] at [Company]
-- 🌱 I’m currently learning [React, databases, and Python Frameworks]
+- 💼 Currently looking for a job as a Python backend dev
+- 🌱 I’m currently learning [React, and Python Frameworks]
 - 👯 Looking to collaborate on [Open Source Projects]
 - 🤔 I’m looking for help with [My app web called Finbook]
 - 💬 Ask me about [Bicycle trips or gym]
@@ -15,10 +15,11 @@ I'm Forek, also known as Krzysztof, a passionate [Backend Developer/Python Enthu
 
 - Python | Django | Flask |
 - XAMPP | PHP | MySQL
-- JavaScript | React 
+- JavaScript | React | TypeScript | SASS
 - SQL | MongoDB | PostgreSQL 
 - Git | Docker
 - VS Code | Sublime Text
+
 
 ## 📈 GitHub Stats
 
