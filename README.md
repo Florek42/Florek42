@@ -13,8 +13,8 @@ I'm Forek, also known as Krzysztof, a passionate [Backend Developer/Python Enthu
 
 ## 🔧 Technologies & Tools
 
-- Python | Django | Flask |
-- XAMPP | PHP | MySQL
+- Python | Django | 
+- PHP | MySQL
 - JavaScript | React | TypeScript | SASS
 - SQL | MongoDB | PostgreSQL 
 - Git | Docker
