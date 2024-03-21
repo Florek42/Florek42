@@ -1,6 +1,6 @@
 # Hi there!👋
 
-I'm Forek, also known as Krzysztof, a passionate [Backend Developer/Python Enthusiast] from Poland/Bydgoszcz. Welcome to my GitHub profile!
+I'm Forek, also known as Krzysztof, a passionate [Backend Developer/Python and JavaScript Enthusiast] from Poland/Bydgoszcz. Welcome to my GitHub profile!
 
 ## 🚀 About Me
 
