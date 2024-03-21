@@ -4,7 +4,7 @@ I'm Forek, also known as Krzysztof, a passionate [Backend Developer/Python and J
 
 ## 🚀 About Me
 
-- 💼 Currently looking for a job as a Python backend dev
+- 💼 Currently looking for a job as a Python/JavaScript Backend Dev or Frontend Dev
 - 🌱 I’m currently learning [React]
 - 👯 My future goal is learning C#
 - ⚡ Fun fact: [Sometimes I like to overwork]
